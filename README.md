@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ottoinspace&theme=manokai&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ottoinspace&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
