@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS no <a href="https://www.uniceub.br/pdp/graduacao/ti/analise-e-desenvolvimento-de-sistemas-96">UNICEUB</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JAVA, C#, UNITY, JS**.
+- 🌱 &nbsp; Aprendendo mais sobre **JAVA, Pyhton, JS**.
 
 <h3>Minhas Skills</h3>
 
