@@ -9,14 +9,10 @@
 <h3>Minhas Skills</h3>
 
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
+![Pycharm](https://img.shields.io/badge/-pycharm-333333?style=flat&logo=pycharm)
 
 **Utilidades**
 
