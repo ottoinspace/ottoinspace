@@ -29,7 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter&20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook&logoColor=007ACC)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi&logoColor=007ACC)
 
 <br/>
